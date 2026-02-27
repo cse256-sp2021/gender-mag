@@ -12,9 +12,9 @@
         "dev": "\"npm run serve\""
     },
     "devDependencies": {
-        "aws-sdk": "^2.860.0",
-        "browser-sync": "^2.26.13",
-        "prettier": "^2.2.1"
+        "aws-sdk": "^2.1693.0",
+        "browser-sync": "^3.0.4",
+        "prettier": "^3.8.1"
     },
     "author": "",
     "license": "ISC"
